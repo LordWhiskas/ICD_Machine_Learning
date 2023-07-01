@@ -1,7 +1,7 @@
 # ICD Algorithm Implementation
 
 ## Overview
-This is an implementation of the ICD (Iterative Closest Data) algorithm for classification tasks. The ICD algorithm is an unsupervised learning algorithm that finds prototypes for each class in the dataset. It can be applied to various classification problems, such as image or text classification.
+This is an implementation of the ICD algorithm for classification tasks. The ICD algorithm is an unsupervised learning algorithm that finds prototypes for each class in the dataset. It can be applied to various classification problems, such as image or text classification.
 
 ## Requirements
 To run this code, you will need the following libraries and dependencies:
